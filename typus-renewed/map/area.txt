@@ -2348,7 +2348,7 @@ champa_area = { #5
 }
 
 tay_nguyen_area = { #3
-	2375 4823 4824
+	4824 4823 2375
 }
 
 cambodia_area = { #5
