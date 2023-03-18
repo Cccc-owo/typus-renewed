@@ -1,6 +1,6 @@
--- Custom definesto disable the Random New World:
+-- Custom defines to disable the Random New World:
 
-NDefines.NGame.MAX_RANDOM_NEW_WORLD = "1000.1.1"
+NDefines.NGame.MAX_RANDOM_NEW_WORLD = "2.1.1"
 
 -- Custom defines to adjust unit speed for the larger map:
 
