@@ -28,14 +28,14 @@ jobs:
 
       - name: Cleanup the folder
         run: |
-          rm -r cn-loc
-          mkdir cn-loc
+          rm -r typus-cn-loc
+          mkdir typus-cn-loc
 
       - name: Unzip
         run: |
           mkdir temp
           unzip text.zip -d temp
-          cp temp/special/* cn-loc/ -r
+          cp temp/special/* typus-cn-loc/ -r
           cp temp/chars.txt .
 
       - name: Cleanup the folder
