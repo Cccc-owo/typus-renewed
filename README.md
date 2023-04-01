@@ -2,6 +2,8 @@
 
 ![thumbnail](thumbnail.png)
 
+[![Steam Downloads](https://img.shields.io/steam/downloads/2955748175?label=steam%20downloads&style=flat-square)](https://steamcommunity.com/sharedfiles/filedetails/?id=2955748175)
+[![Steam Views](https://img.shields.io/steam/views/2955748175?label=Steam%20views&style=flat-square)](https://steamcommunity.com/sharedfiles/filedetails/?id=2955748175)
 [![GitHub all releases](https://img.shields.io/github/downloads/Cccc-owo/typus-renewed/total?label=GitHub%20downloads&style=flat-square)](https://github.com/Cccc-owo/typus-renewed/releases)
 [![GitHub tag](https://img.shields.io/github/v/release/Cccc-owo/typus-renewed?sort=semver&style=flat-square)](https://github.com/Cccc-owo/typus-renewed/tags)
 [![GitHub commit activity](https://img.shields.io/github/commit-activity/m/Cccc-owo/typus-renewed?style=flat-square)](https://github.com/Cccc-owo/typus-renewed/graphs/commit-activity)

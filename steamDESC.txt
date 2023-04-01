@@ -1,5 +1,7 @@
 NOT IRONMAN COMPATIBLE.
 
+[url=https://steamcommunity.com/sharedfiles/filedetails/?id=2955747627]中文本地化点我[/url]
+
 [quote=bizarcasm]
 Typus Orbis Terrarum is a map overhaul mod focused on correcting the physical geography of the game, featuring a new map projection and terrain map, with hand-drawn coastlines and rivers. It does not change vanilla's province layout or balance.
 
