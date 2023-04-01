@@ -28,14 +28,14 @@ jobs:
 
       - name: Cleanup the folder
         run: |
-          rm -r cn_loc
-          mkdir cn_loc
+          rm -r cn-loc
+          mkdir cn-loc
 
       - name: Unzip
         run: |
           mkdir temp
           unzip text.zip -d temp
-          cp temp/special/* cn_loc/ -r
+          cp temp/special/* cn-loc/ -r
           cp temp/chars.txt .
 
       - name: Cleanup the folder

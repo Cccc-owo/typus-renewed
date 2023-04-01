@@ -14,4 +14,4 @@ Compatible with v1.34.
 
 Only a few changes are made in order to follow vanilla game & original Typus map.
 
-Great thanks to bizarcasm for making suck an amazing map mod!
+Great thanks to bizarcasm for making such an amazing map mod!

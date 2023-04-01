@@ -1,9 +1,9 @@
-# Changelog
+# ChangeLog
 
-...
+Update some pixels of provinces.bmp
 
-<details><summary>历史更新日志</summary>
+<details><summary>History ChangeLog</summary>
 
-...
+Initial release.
 
 </details>

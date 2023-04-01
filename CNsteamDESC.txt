@@ -1,0 +1,17 @@
+铁人不兼容。
+
+[quote=bizarcasm]
+Typus Orbis Terrarum是一个专注于修正游戏显示地理的地图大修mod，具有新的地图投影和地形图，并有手绘的海岸线和河道。它并没有改变原版省份的布局或平衡。
+
+虽然在审美上它本身是令人愉快的，但这个MOD的设计是为了成为其他MOD的基础资源。任何修改者都有原作者的许可，以任何他们希望的方式将其重新用于任何EU4的修改，只要注明原作者的名字。
+
+更多信息可以在Paradox论坛上找到。
+
+[url=https://forum.paradoxplaza.com/forum/index.php?threads/mod-typus-orbis-terrarum-a-new-base-map-for-euiv.819288/]Paradox论坛页面链接[/url]
+[/quote]
+
+与v1.34兼容。
+
+为了遵循原版游戏和原始Typus地图，只做了一些更改。
+
+非常感谢bizarcasm制作了如此厉害的地图MOD!
