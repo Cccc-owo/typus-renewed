@@ -2,7 +2,7 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 333;4559;sea;1300;-1;-1;-1;-1;Majorca-Minorca
 4560;333;sea;1295;-1;-1;-1;-1;Ibiza-Majorca
 366;4565;sea;1471;-1;-1;-1;-1;Canaries
-6;12;sea;1258;-1;-1;-1;-1;Skåne-Sjaelland
+6;12;sea;1258;-1;-1;-1;-1;Skï¿½ne-Sjaelland
 12;14;sea;1258;-1;-1;-1;-1;Sjaelland-Fyn
 14;4142;sea;1258;-1;-1;-1;-1;Fyn-Aarhus
 14;4149;sea;1258;-1;-1;-1;-1;Fyn-Kolding
@@ -11,8 +11,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 123;124;sea;1307;-1;-1;-1;-1;Calabria-Messina
 151;316;sea;1320;-1;-1;-1;-1;Thrace-Bithynia
 911;945;sea;1662;-1;-1;-1;-1;Menominee-Michigan
-1;1930;sea;1928;-1;-1;-1;-1;Stockholm-Åland
-1930;27;sea;1253;-1;-1;-1;-1;Åland-Finland
+1;1930;sea;1928;-1;-1;-1;-1;Stockholm-ï¿½land
+1930;27;sea;1253;-1;-1;-1;-1;ï¿½land-Finland
 142;144;sea;1311;-1;-1;-1;-1;Janina-Corfu
 4699;1773;sea;1312;-1;-1;-1;-1;Janina-Achaea
 146;164;sea;1319;-1;-1;-1;-1;Athens-Naxos
@@ -28,8 +28,8 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1014;4186;sea;1390;-1;-1;-1;-1;Bungo-Iyo
 4186;1825;sea;1390;-1;-1;-1;-1;Aki-Iyo
 2159;666;sea;1370;-1;-1;-1;-1;Jiangmen-Hainan
-36;35;sea;1926;-1;-1;-1;-1;Estland-Ösel
-35;39;sea;1256;-1;-1;-1;-1;Ösel-Kurland
+36;35;sea;1926;-1;-1;-1;-1;Estland-ï¿½sel
+35;39;sea;1256;-1;-1;-1;-1;ï¿½sel-Kurland
 597;620;sea;1361;-1;-1;-1;-1;Johor-Siak
 659;2677;sea;1361;-1;-1;-1;-1;Riau-Palembang
 972;874;sea;1558;-1;-1;-1;-1;Nootka-Salish

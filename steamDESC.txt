@@ -1,0 +1,17 @@
+NOT IRONMAN COMPATIBLE.
+
+[quote=bizarcasm]
+Typus Orbis Terrarum is a map overhaul mod focused on correcting the physical geography of the game, featuring a new map projection and terrain map, with hand-drawn coastlines and rivers. It does not change vanilla's province layout or balance.
+
+While aesthetically enjoyable on it’s own, this mod is designed to be a resource for other mods to use as a base. Any modder has my permission to repurpose it however they wish for any EU4 mod, so long as credit is given to the original.
+
+Further information can be found at the Paradox Forums
+
+[url=https://forum.paradoxplaza.com/forum/index.php?threads/mod-typus-orbis-terrarum-a-new-base-map-for-euiv.819288/]Paradox Forum Thread Link[/url]
+[/quote]
+
+Compatible with v1.34.
+
+Only a few changes are made in order to follow vanilla game & original Typus map.
+
+Great thanks to bizarcasm for making suck an amazing map mod!
