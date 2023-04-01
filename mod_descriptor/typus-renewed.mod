@@ -7,3 +7,4 @@ tags={
 picture="thumbnail.png"
 name="Typus Orbis Terrarum - Renewed"
 supported_version="1.34.*"
+remote_file_id="2955748175"
