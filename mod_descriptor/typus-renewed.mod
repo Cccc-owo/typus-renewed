@@ -1,5 +1,9 @@
-version="1.0.1"
+version="1.1.0"
 replace_path="map/random"
+dependencies={
+	"Chinese Language Mod for 1.34"
+	"Chinese Language Supplementary Mod for 1.34"
+}
 tags={
 	"Graphics"
 	"Map"

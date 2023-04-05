@@ -1,7 +1,9 @@
-version="1.0"
+version="1.1"
 dependencies={
     "Typus Orbis Terrarum"
 	"Typus Orbis Terrarum - Renewed"
+	"Chinese Language Mod for 1.34"
+	"Chinese Language Supplementary Mod for 1.34"
 }
 tags={
 	"Translation"
