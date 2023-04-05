@@ -10,12 +10,6 @@ on:
       - "CHANGELOG.md"
       - ".gitignore"
       - "steamDESC.txt"
-  pull_request:
-    paths-ignore:
-      - "README.md"
-      - "CHANGELOG.md"
-      - ".gitignore"
-      - "steamDESC.txt"
 
 jobs:
   build:
@@ -31,7 +25,9 @@ jobs:
         uses: actions/upload-artifact@v3
         with:
           name: typus-renewed
-          path: mod.zip
+          path: |
+            mod.zip
+            mod-cn-loc.zip
 
   nightly-release:
     permissions: write-all
@@ -48,9 +44,10 @@ jobs:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
           automatic_release_tag: "nightly-release"
           prerelease: true
-          title: "test Build"
+          title: "Action Build"
           files: |
             mod.zip
+            mod-cn-loc.zip
 
   release:
     permissions: write-all
@@ -65,26 +62,10 @@ jobs:
         with:
           name: typus-renewed
 
-      #- name: Unzip the artifact
-      #  run: |
-      #    mkdir temp
-      #    unzip mod.zip -d temp
-
       - name: Release Action
         uses: softprops/action-gh-release@v0.1.15
         with:
           files: |
             mod.zip
+            mod-cn-loc.zip
           body_path: CHANGELOG.md
-          #discussion_category_name: "公告"
-
-      #- name: steam-workshop-upload
-      #  uses: Weilbyte/steam-workshop-upload@v1.1
-      #  with:
-      #    appid: 236850 # Game's Steam App ID
-      #    itemid: 2897275182 # Your mod's Steam Workshop ID
-      #    path: 'temp'
-      #  env:
-      #    STEAM_USERNAME: ${{ secrets.STEAM_USERNAME }} # Your Steam username
-      #    STEAM_PASSWORD: ${{ secrets.STEAM_PASSWORD }} # Your Steam password
-      #    STEAM_TFASEED: ${{ secrets.STEAM_TFASEED }} # Your Steam Guard 2FA shared secret (Optional)
