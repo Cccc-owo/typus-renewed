@@ -14,4 +14,4 @@ Typus Orbis Terrarum是一个专注于修正游戏显示地理的地图大修mod
 
 为了遵循原版游戏和原始Typus地图，只做了一些更改。
 
-非常感谢bizarcasm制作了如此厉害的地图MOD!
+非常感谢bizarcasm制作了这个MOD！
