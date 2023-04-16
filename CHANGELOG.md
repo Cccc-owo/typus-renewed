@@ -2,6 +2,11 @@
 
 ## typus-renewed
 
+### v1.1.1
+
+- Update tradenodes control point 更新贸易节点
+- Update localisation of prov 1997 更新省份1997的本地化
+
 ### v1.1.0
 
 - Fix tradenodes 修复贸易节点
@@ -20,6 +25,10 @@
 </details>
 
 ## typus-cn-loc
+
+### v1.2
+
+- 同步 typus-renewed 更改
 
 ### v1.1
 
