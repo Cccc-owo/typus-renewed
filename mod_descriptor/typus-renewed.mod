@@ -1,4 +1,4 @@
-version="1.2.0"
+version="1.2.1"
 replace_path="map/random"
 dependencies={
 	"Chinese Language Mod for 1.35"

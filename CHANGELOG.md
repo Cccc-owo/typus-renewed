@@ -2,6 +2,10 @@
 
 ## typus-renewed
 
+### v1.2.1
+
+- Fix some pixels 修补省份图像素
+
 ### v1.2.0
 
 - Adapt to EU4 v1.35.1
