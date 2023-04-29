@@ -26,8 +26,7 @@ jobs:
         with:
           name: typus-renewed
           path: |
-            mod.zip
-            mod-cn-loc.zip
+            *.zip
 
   nightly-release:
     permissions: write-all
@@ -46,8 +45,7 @@ jobs:
           prerelease: true
           title: "Action Build"
           files: |
-            mod.zip
-            mod-cn-loc.zip
+            *.zip
 
   release:
     permissions: write-all
@@ -63,9 +61,8 @@ jobs:
           name: typus-renewed
 
       - name: Release Action
-        uses: softprops/action-gh-release@v0.1.15
+        uses: softprops/action-gh-release@v1
         with:
           files: |
-            mod.zip
-            mod-cn-loc.zip
+            *.zip
           body_path: CHANGELOG.md
