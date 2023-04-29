@@ -2,6 +2,12 @@
 
 ## typus-renewed
 
+### v1.2.0
+
+- Adapt to EU4 v1.35.1
+
+<details><summary>History ChangeLog</summary>
+
 ### v1.1.1
 
 - Update tradenodes control point 更新贸易节点
@@ -11,8 +17,6 @@
 
 - Fix tradenodes 修复贸易节点
 - Add some missing provinces 重新加入丢失的省份
-
-<details><summary>History ChangeLog</summary>
 
 ### v1.0.1
 
@@ -26,6 +30,12 @@
 
 ## typus-cn-loc
 
+### v1.3
+
+- 更新适配版本
+
+<details><summary>History ChangeLog</summary>
+
 ### v1.2
 
 - 同步 typus-renewed 更改
@@ -33,8 +43,6 @@
 ### v1.1
 
 - 修复与原版汉化MOD的兼容性
-
-<details><summary>History ChangeLog</summary>
 
 ### v1.0
 

@@ -10,7 +10,7 @@ Typus Orbis Terrarum是一个专注于修正游戏显示地理的地图大修mod
 [url=https://forum.paradoxplaza.com/forum/index.php?threads/mod-typus-orbis-terrarum-a-new-base-map-for-euiv.819288/]Paradox论坛页面链接[/url]
 [/quote]
 
-与v1.34兼容。
+与v1.35兼容。
 
 为了遵循原版游戏和原始Typus地图，只做了一些更改。
 
