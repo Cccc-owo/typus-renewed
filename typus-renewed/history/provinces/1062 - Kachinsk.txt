@@ -2,7 +2,7 @@
 
 culture = tungus
 religion = tengri_pagan_reformed
-capital = "Angara"
+capital = "Chunskaya"
 trade_goods = unknown
 hre = no
 base_tax = 1 
@@ -15,6 +15,13 @@ native_hostileness = 3
 
 
 
+1451.1.1 = { owner = OIR controller = OIR add_core = OIR }
+1518.1.1 = {
+	owner = BRT
+	controller = BRT
+	add_core = BRT
+}
+1454.1.1 = { owner = BRT controller = BRT add_core = BRT remove_core = OIR } 
 1618.1.1 = { discovered_by = RUS }
 
 1632.1.1 = {

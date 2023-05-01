@@ -2,7 +2,7 @@
 
 culture = tungus
 religion = tengri_pagan_reformed
-capital = "Katanga"
+capital = "Uchaminskiy"
 trade_goods = unknown
 hre = no
 base_tax = 1 

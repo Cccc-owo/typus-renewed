@@ -1,8 +1,8 @@
 #2437 - Seganka
 
-culture = yukagyr
+culture = tungus
 religion = tengri_pagan_reformed
-capital = "Edjigeen"
+capital = "Seganka"
 trade_goods = unknown
 hre = no
 base_tax = 1 

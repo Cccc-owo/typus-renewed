@@ -1,20 +1,24 @@
 #1060 - Irkutsk
-
+latent_trade_goods = {
+	coal
+}
 owner = KHA
 controller = KHA
 add_core = KHA
+is_city = yes
 culture = buryat
 religion = tengri_pagan_reformed
 capital = "Irkutsk"
 trade_goods = fur
 hre = no
-base_tax = 1 
-base_production = 1
-base_manpower = 1
-is_city = yes
+base_tax = 3
+base_production = 2
+base_manpower = 2
 
 
 
+
+discovered_by = chinese
 discovered_by = nomad_group
 discovered_by = BRT
 
@@ -25,6 +29,5 @@ discovered_by = BRT
 	controller = RUS
 	religion = orthodox
 	culture = russian
-	is_city = yes
 }
 1634.1.1 = { add_core = RUS }

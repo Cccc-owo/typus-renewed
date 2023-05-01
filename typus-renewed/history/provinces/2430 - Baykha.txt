@@ -2,7 +2,7 @@
 
 culture = samoyed
 religion = tengri_pagan_reformed #Sami Shamanism
-capital = "Dudinka"
+capital = "Troitskiy"
 trade_goods = unknown
 hre = no
 base_tax = 1 

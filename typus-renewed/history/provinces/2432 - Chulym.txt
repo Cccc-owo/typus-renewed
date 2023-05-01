@@ -1,6 +1,6 @@
 #2432 - Chulym
 
-culture = buryat
+culture = tungus
 religion = tengri_pagan_reformed
 capital = "Kyzyl Char"
 trade_goods = unknown
