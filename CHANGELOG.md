@@ -2,6 +2,10 @@
 
 ## typus-renewed
 
+### v1.3.1
+
+- Fix a province which is wrongly set to impassable in climate.txt 修复一个被错误地定义为不可通行的省份（2025）
+
 ### v1.3.0
 
 - Fix some pixels 修补省份图像素
