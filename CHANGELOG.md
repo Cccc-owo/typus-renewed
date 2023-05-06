@@ -2,6 +2,10 @@
 
 ## typus-renewed
 
+### v1.3.2
+
+- Fix Midway(1997)'s terrain 修复中途岛（1997）的地形
+
 ### v1.3.1
 
 - Fix a province which is wrongly set to impassable in climate.txt 修复一个被错误地定义为不可通行的省份（2025）
