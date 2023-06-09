@@ -2,6 +2,12 @@
 
 ## typus-renewed
 
+### v1.4.0
+
+- Details fix 细节修复
+
+<details><summary>History ChangeLog</summary>
+
 ### v1.3.2
 
 - Fix Midway(1997)'s terrain 修复中途岛（1997）的地形
@@ -18,8 +24,6 @@
 - Fix one sea area's conflict 修复一个海洋area的冲突
 - Fix some provinces' history 修复部分省份历史
 - Tweak heightmap 调整高度图
-
-<details><summary>History ChangeLog</summary>
 
 ### v1.2.2
 
@@ -54,6 +58,10 @@
 </details>
 
 ## typus-cn-loc
+
+### v1.5
+
+- 更新依赖
 
 ### v1.4
 
