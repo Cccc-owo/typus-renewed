@@ -1,4 +1,4 @@
-version="1.4.0"
+version="1.4.1"
 replace_path="map/random"
 tags={
 	"Graphics"
@@ -6,5 +6,5 @@ tags={
 }
 picture="thumbnail.png"
 name="Typus Orbis Terrarum - Renewed"
-supported_version="1.35.*"
+supported_version="1.36.*"
 remote_file_id="2955748175"
