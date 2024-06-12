@@ -12,7 +12,7 @@ Further information can be found at the Paradox Forums
 [url=https://forum.paradoxplaza.com/forum/index.php?threads/mod-typus-orbis-terrarum-a-new-base-map-for-euiv.819288/]Paradox Forum Thread Link[/url]
 [/quote]
 
-Compatible with v1.35.
+Compatible with v1.37.
 
 Only a few changes are made in order to follow vanilla game & original Typus map.
 
