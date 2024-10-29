@@ -11,5 +11,5 @@ tags={
 }
 picture="thumbnail.png"
 name="Typus Orbis Terrarum - Chinese Localisation"
-supported_version="1.*.*.*"
+supported_version="v1.*.*.*"
 remote_file_id="2955747627"
