@@ -1,6 +1,5 @@
 # ChangeLog
 
-## v1.5.3
+## v1.5.4
 
-- Fix Climate issue
-- Fix some positions being wrongly set
+- Remove some province history inconsistent with vanilla [TODO]: Add back some missing provinces
