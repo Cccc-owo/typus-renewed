@@ -1,4 +1,4 @@
-version="1.5.5"
+version="1.5.6"
 replace_path="map/random"
 tags={
 	"Graphics"

@@ -1,5 +1,11 @@
 # ChangeLog
 
-## v1.5.4
+## v1.5.5
 
-- Remove some province history inconsistent with vanilla [TODO]: Add back some missing provinces
+- Fix a wrong position
+
+## v1.5.6
+
+- Fix adjacenies
+- Fix another wrong positions
+- Fix Wake graphics

@@ -36,14 +36,11 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 972;973;sea;1558;-1;-1;-1;-1;Nootka-Squamish
 972;974;sea;1558;-1;-1;-1;-1;Nootka-Kwakiutl
 2569;982;sea;1491;-1;-1;-1;-1;Acadia-Unamakik
-984;983;sea;1491;-1;-1;-1;-1;Acadia-Epekwitk
+4891;983;sea;1491;-1;-1;-1;-1;Piktuk-Epagoitgnag
 997;981;sea;1493;-1;-1;-1;-1;Chisedek-Taqamkuk
 1050;4658;sea;1379;-1;-1;-1;-1;Deren-Nanghaer
 1215;387;sea;1330;-1;-1;-1;-1;Tajura-Mocha
 112;1774;sea;1308;-1;-1;-1;-1;Venice-Treviso
-112;111;sea;1308;-1;-1;-1;-1;Venice-Friuli
-112;113;sea;1308;-1;-1;-1;-1;Venice-Ferrara
-112;4729;sea;1308;-1;-1;-1;-1;Venice-Padova
 54;4141;sea;1268;-1;-1;-1;-1;Stade-Dithmarschen
 1820;1021;sea;1391;-1;-1;-1;-1;Awa-Settsu
 4131;4193;sea;1387;-1;-1;-1;-1;Oshima-Mutsu
@@ -76,7 +73,6 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 496;495;sea;1523;-1;-1;-1;-1;Guadalupe-Antigua
 495;494;sea;1523;-1;-1;-1;-1;Antigua-St Kits
 628;2692;sea;1355;-1;-1;-1;-1;Surabaya-Madura
-627;631;sea;1355;-1;-1;-1;-1;Blambangan-Bali
 631;2693;sea;1355;-1;-1;-1;-1;Bali-Lombok
 2693;632;sea;1355;-1;-1;-1;-1;Lombok-Sumbawa
 632;633;sea;1355;-1;-1;-1;-1;Sumbawa-Flores
@@ -90,19 +86,18 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 4353;654;sea;1397;-1;-1;-1;-1;Leyte-Samar
 646;647;sea;1401;-1;-1;-1;-1;Ambom-Ceram
 2678;622;sea;1361;-1;-1;-1;-1;Banka-Palembang
-2686;597;sea;1361;-1;-1;-1;-1;Bintan-Johor
 2686;4815;sea;1361;-1;-1;-1;-1;Bintan-Singapura
-4815;597;sea;1361;-1;-1;-1;-1;Singapura-Johor
 2929;2890;sea;1529;-1;-1;-1;-1;Para-Marajo
 748;2890;sea;1529;-1;-1;-1;-1;Belem-Marajo
+4815;597;sea;1361;-1;-1;-1;-1;Singapura-Johor
 911;2587;sea;1661;-1;-1;-1;-1;Belem-Marajo
 2954;353;sea;1305;-1;-1;-1;-1;Djerba-Tataouine
-624;623;sea;1352;-1;-1;-1;-1;Banten-Tulungbewang
 431;2999;sea;1334;-1;-1;-1;-1;Mogostan-Hormuz
 398;2999;sea;1334;-1;-1;-1;-1;Qawasim-Hormuz
 146;3003;sea;1319;-1;-1;-1;-1;Athens - Euboea
 3003;164;sea;1319;-1;-1;-1;-1;Euboea - Cyclades
 31;4152;lake;4139;-1;-1;-1;-1;Savolax - Kuusamo
+624;623;sea;1352;-1;-1;-1;-1;Banten-Tulungbewang
 1751;226;sea;1293;-1;-1;-1;-1;Ceuta-Gibraltar
 4353;4352;sea;1397;-1;-1;-1;-1;Leyte-Cebu
 4351;4352;sea;1397;-1;-1;-1;-1;Buglas-Cebu
@@ -113,8 +108,10 @@ From;To;Type;Through;start_x;start_y;stop_x;stop_y;Comment
 1240;4934;sea;1697;-1;-1;-1;-1;Hawaii-Maui
 4934;4935;sea;1697;-1;-1;-1;-1;Maui-Oahu
 4935;4936;sea;1697;-1;-1;-1;-1;Oahu-Kauai
-1242;4938;sea;1431;6164;781;6170;787;Vitu Levu-Vanua Levu
+4938;4937;sea;1431;-1;-1;-1;-1;Vanua Levu-Lau
+4937;1242;sea;1431;-1;-1;-1;-1;Lau-Viti Levu
+1242;4938;sea;1431;-1;-1;-1;-1;Vitu Levu-Vanua Levu
 1087;4869;sea;1414;-1;-1;-1;-1;Wurundjeri-Peerapper
 631;627;sea;1354;-1;-1;-1;-1;Bali-Blambangan
-950;2554;sea;1354;1643;1771;1644;1776;Cheapeake-Nentego
+2686;597;sea;1361;-1;-1;-1;-1;Bintan-Johor
 -1;-1;;-1;-1;-1;-1;-1;-1;
