@@ -9,3 +9,7 @@
 - Fix adjacenies
 - Fix another wrong positions
 - Fix Wake graphics
+
+## v1.5.7
+
+- Fix a wrong position
