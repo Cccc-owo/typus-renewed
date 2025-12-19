@@ -10,6 +10,6 @@
 - Fix another wrong positions
 - Fix Wake graphics
 
-## v1.5.7
+## v1.5.7~v1.5.8
 
-- Fix a wrong position
+- Fix some wrong positions
